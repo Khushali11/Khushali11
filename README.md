@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Khushali shah
+                                              Hi 👋, I'm Khushali shah
+
+
+
+
+
+
+- 👋 Hi, I’m Khushali shah.
 - 👀 I’m interested in automatic testing.
 - 🌱 I’m currently learning Python,API testing,Web testing,jenkings,GIT,selenium,JIRA,POSTMAN,pytest.
 - 💞️ I’m looking to collaborate on web testing,API Testing,Selenium,API framwork.
@@ -12,6 +19,8 @@ Languages and Tools:
 ![image](https://github.com/Khushali11/Khushali11/assets/147272779/18491f9d-7db1-4610-bc1a-4ffffd806234)
 ![image](https://github.com/Khushali11/Khushali11/assets/147272779/f2536fe5-561f-4ecb-b775-3f04ddfb1103)
 ![image](https://github.com/Khushali11/Khushali11/assets/147272779/d7a7971e-ab9c-4f4f-9764-8d06765dac52)
+![image](https://github.com/Khushali11/Khushali11/assets/147272779/581c9fd0-b485-43f7-b0b3-eac3899ac47a)
+
 
 
 
